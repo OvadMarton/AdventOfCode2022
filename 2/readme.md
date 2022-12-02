@@ -1,0 +1,1 @@
+GPT really didn't do well on this one. It made several logical mistakes due to the different letter use for annotating the 3 choices with opponents and the player.
